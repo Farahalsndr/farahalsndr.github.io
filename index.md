@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: "Farah's blog"
+Title: ""
 ---
 Hello! i am a first year student at Universitas Padjadjaran majoring in digital business.
 
